@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pranav Nimbalkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/cat-gif-26024704">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavnr&label=Profile%20views&color=0e75b6&style=flat" alt="pranavnr" /> </p>
 
 - 🔭 I’m currently working on **Data science and ML**
 
 - 🌱 I’m currently learning **Data Visualisation**
+
+- 💬 Ask me about **Python, MySQL**
+
+- 📫 How to reach me **pranim18@gmail.com**
 
 - ⚡ Random fact **I can split two 2x2 legos w bare hands**
 
